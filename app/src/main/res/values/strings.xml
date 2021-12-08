@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="delete_task">Delete task</string>
+    <string name="validate_new_task">Valider</string>
+    <string name="form_title">Titre</string>
+    <string name="form_description">Description</string>
+    <string name="add_task_hint">Ajouter une tache</string>
+    <string name="edit_task_hint">Modifier une tache</string>
+</resources>
